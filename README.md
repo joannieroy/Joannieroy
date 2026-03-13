@@ -3,7 +3,7 @@
 <!--
 **joannieroy/Joannieroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Cytometry in R
+### Cytometry in R - Starter Questions
 Location: Montreal
 My Favorite Fluorphore: Alexa 647
 Previous Coding Experience: (A lot of) Matlab, (a bit of) Python, (a tiny little bit of) Labwiew

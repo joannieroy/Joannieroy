@@ -3,6 +3,12 @@
 <!--
 **joannieroy/Joannieroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Cytometry in R
+Location: Montreal
+My Favorite Fluorphore: Alexa 647
+Previous Coding Experience: (A lot of) Matlab, (a bit of) Python, (a tiny little bit of) Labwiew
+What I hope to get from this course: An opensource alternative to FlowJo. Learning R in general (because I'll neeed it eventually for RNA sequencing data)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
